@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "233122919854",
+    "firebase_url": "https://trialproject-d1eb6.firebaseio.com",
+    "project_id": "trialproject-d1eb6",
+    "storage_bucket": "trialproject-d1eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233122919854:android:b4803c26687d8bec",
+        "android_client_info": {
+          "package_name": "com.trailproject.nitte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233122919854-6mcoplnjs9faksd8k879qdtjckga4st8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEdenJAmOir9y_NJbgtiQDKB50heTPao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
